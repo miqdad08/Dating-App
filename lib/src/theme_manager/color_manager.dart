@@ -7,6 +7,7 @@ class ColorManager{
   static Color pink = HexColor.fromHex('#EA887B');
   static Color purple = HexColor.fromHex('#CE92E3');
   static Color black60 = HexColor.fromHex('#737D9C');
+  static Color black30 = HexColor.fromHex('#8D93A8');
   static Color black = HexColor.fromHex('#5B6279');
   static Color grey = HexColor.fromHex('#D9D9D9');
   static Color grey60 = HexColor.fromHex('#A9A9AC');
