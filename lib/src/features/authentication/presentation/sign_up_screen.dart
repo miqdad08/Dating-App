@@ -1,3 +1,4 @@
+import 'package:dating_app/src/theme_manager/values_manager.dart';
 import 'package:flutter/material.dart';
 
 class SignUpScreen extends StatelessWidget {
@@ -7,7 +8,7 @@ class SignUpScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
+      body: Padding(padding: EdgeInsets.symmetric(horizontal: AppPadding.p24, vertical: AppPadding.p40),),
     );
   }
 }
