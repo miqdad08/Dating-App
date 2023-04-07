@@ -44,3 +44,11 @@ TextStyle getBlackTextStyle({
   return _getTextStyle(
       fontSize, FontFamilyConstant.fontFamily, fontWeight, ColorManager.black);
 }
+
+TextStyle getGrey60TextStyle({
+  double fontSize = FontSizeManager.f14,
+  FontWeight fontWeight = FontWeightManager.regular,
+}) {
+  return _getTextStyle(
+      fontSize, FontFamilyConstant.fontFamily, fontWeight, ColorManager.grey60);
+}
