@@ -1,16 +1,21 @@
-# dating_app
+# Dating App
+Merupakan aplikasi hasil dari course Bwa Dating App(Sarang).
+Mentor : Pak Ditateum
+## Fitur Dating App
+- Authentication
+- Explore Screen
+- People Loved
+- Likes People
+## Dependencies
+Berikut ini merupakan depedencies yang di gunakan dalam project ini:
+### State Management
+- flutter_bloc
+### UI
+- appinio_swiper
+- google_fonts
+### Local Storage
+- shared_preferences
+### Http
+- image_picker
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot Aplikasi
