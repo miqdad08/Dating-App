@@ -1,14 +1,14 @@
 # Dating App
 It is an application resulting from the course Bwa Dating App (Sarang).
 Mentor : Mr. Ditateum
-## Fitur Dating App
+## Feature Dating App
 - Authentication
 - Likes You
 - Explore Screen
 - People Loved
 - Likes People
 ## Dependencies
-Berikut ini merupakan depedencies yang di gunakan dalam project ini:
+these are the dependencies used in this project:
 ### State Management
 - flutter_bloc
 ### UI
