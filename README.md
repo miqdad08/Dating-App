@@ -19,7 +19,7 @@ Berikut ini merupakan depedencies yang di gunakan dalam project ini:
 ### Http
 - image_picker
 
-## Screenshot Aplikasi
+## Screenshot Application
 ![Dating App](https://user-images.githubusercontent.com/44460047/230707734-e32bcac9-936f-424c-b6e2-84b00f82f084.png)
 ## Screenshot Feature Authentication
 ![Feat Authentication](https://user-images.githubusercontent.com/44460047/230707750-53bb9e21-663f-453f-b2a0-bc531b1db4c4.png)
