@@ -20,7 +20,7 @@ these are the dependencies used in this project:
 - image_picker
 
 ## Screenshot Application
-![Dating App](https://user-images.githubusercontent.com/44460047/230707734-e32bcac9-936f-424c-b6e2-84b00f82f084.png)
+<img width="476" alt="dating app" src="https://user-images.githubusercontent.com/44460047/230808006-c80b8241-f04e-4c94-a97d-2a20a289bbba.png">
 ## Screenshot Feature Authentication
 ![Feat Authentication](https://user-images.githubusercontent.com/44460047/230707750-53bb9e21-663f-453f-b2a0-bc531b1db4c4.png)
 ## Screenshot Feaature Likes You
