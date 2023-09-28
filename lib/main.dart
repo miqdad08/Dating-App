@@ -19,12 +19,15 @@ class MyApp extends StatelessWidget {
       providers: [
         BlocProvider(
           create: (context) => AuthBloc(),
+          // Provide State Management from AuthBloc.
         ),
         BlocProvider(
           create: (context) => ExplorePeopleBloc(),
+          // Provide State Management from ExplorePeopleBloc.
         ),
         BlocProvider(
           create: (context) => PeopleLovedBloc(),
+          // Provide State Management from PeopleLovedBloc.
         ),
       ],
       child: const AppScreen(),
